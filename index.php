@@ -33,7 +33,9 @@
 
     echo strlen($name);
     echo "<br>";
-    echo strtoupper($name);
+    echo
+
+    strtoupper($name);
     echo "<br>";
 
     echo $name[0];
